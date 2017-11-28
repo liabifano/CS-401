@@ -1,5 +1,7 @@
 # Demystifying POTUS, one tweet at a time...
 
+## Project Miletone 2
+The analysis regarding the milestone 2 can be found [here](https://github.com/liabifano/project/blob/master/analysis/Project-MileStone2-Updated.ipynb)
 
 ## Abstract
 Twitter plays a crucial role in politics these days. Gone are the days of door-to-door campaigning and trying to reach the last man. Today, power is weilded by those who can tweet. A carefully worded 140 character phrase carries the ability to swing states and potentially change the course of an entire nation. The goal of our project is to analyse the impact of Twitter on society and understand how ideas are spread across a network.
@@ -15,7 +17,6 @@ The [Trump Twitter Archive](http://www.trumptwitterarchive.com/) is a project th
 - **How linguistic tones create an impact?**
 
    Sentiment Analysis - breaking down tweets into positive, neutral and negative remarks to figure out how Trump uses language to create an impact. This might also extend to recording the use of exclamation marks and capitalised words to measure the unambiguity of the tweet emotion.
-   
    Ego Analysis - finding occurences involving the use of self to promote an idea/situation. This might give us important insights about the impact of his tweets.
    
 - **Is it okay to generalize the sentiments based on ALL the tweets?**
